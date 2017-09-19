@@ -30,16 +30,7 @@
 	
     
 
-    <pluginRepositories>
-        <pluginRepository>
-            <id>central</id>
-            <url>${nexusUrl}</url>
-            <snapshots>
-                <enabled>false</enabled>
-                <updatePolicy>never</updatePolicy>
-            </snapshots>
-        </pluginRepository>
-    </pluginRepositories>
+    
 
 	<dependencies>
 		<dependency>
